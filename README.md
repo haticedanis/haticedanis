@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Hatice
 
-<!--
-**haticedanis/haticedanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on building practical projects
+and improving my software development skills.
 
-Here are some ideas to get you started:
+### Technologies
+- HTML, CSS, JavaScript
+- Python, SQL
+- C, C++, Java
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m working on
+- Web development fundamentals
+- Algorithm and problem solving
+- Database design basics
+- FreeCodeCamp projects
+
